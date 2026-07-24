@@ -1,0 +1,6 @@
+Topic,Formula,Meaning,Example
+Area of Circle,A = pi r^2,Finds area using radius,Radius 3 gives area 28.27
+Perimeter of Rectangle,P = 2(l + w),Adds all sides,Length 5 width 2 gives perimeter 14
+Quadratic Formula,x = (-b +- sqrt(b^2 - 4ac)) / 2a,Solves quadratic equations,Useful for ax^2 + bx + c = 0
+Speed,Speed = Distance / Time,Measures how fast something moves,120 km in 2 h gives 60 km/h
+Simple Interest,SI = PRT / 100,Calculates interest on principal,1000 at 5 percent for 2 years gives 100

@@ -1,0 +1,38 @@
+Photosynthesis is the process by which green plants, algae, and some bacteria make their own food using sunlight.
+
+Key requirements:
+- Sunlight provides energy.
+- Chlorophyll in chloroplasts absorbs light.
+- Carbon dioxide enters through stomata in leaves.
+- Water is absorbed by roots and transported through the plant.
+
+Main equation:
+6CO2 + 6H2O + light energy -> C6H12O6 + 6O2
+
+Important ideas:
+- Glucose is the main food produced.
+- Oxygen is released as a by-product.
+- The process mainly happens in leaf cells.
+
+There are two major stages:
+1. Light-dependent reactions
+These happen in the thylakoid membranes. Sunlight energy is captured and used to produce ATP and NADPH. Water molecules are split, which releases oxygen.
+
+2. Calvin cycle
+This happens in the stroma of the chloroplast. Carbon dioxide is used along with ATP and NADPH to form glucose.
+
+Why photosynthesis matters:
+- It provides food for plants and, directly or indirectly, for nearly all living organisms.
+- It releases oxygen into the atmosphere.
+- It helps maintain the balance of carbon dioxide and oxygen on Earth.
+
+Common student confusion:
+- Plants do respire as well as photosynthesize.
+- Photosynthesis mostly occurs during daylight because it depends on light.
+- Chlorophyll does not create sunlight; it captures light energy.
+
+Practice questions:
+1. Why is chlorophyll important in photosynthesis?
+2. What are the raw materials required for photosynthesis?
+3. In which part of the chloroplast does the Calvin cycle occur?
+4. Why is photosynthesis essential for life on Earth?

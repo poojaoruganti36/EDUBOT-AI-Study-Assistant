@@ -1,0 +1,24 @@
+Photosynthesis is the process by which plants make food using sunlight, carbon dioxide, and water.
+
+Important points:
+- It takes place mainly in chloroplasts.
+- Chlorophyll captures light energy.
+- Glucose is produced as food.
+- Oxygen is released into the air.
+
+Stages:
+1. Light-dependent reactions
+These reactions capture sunlight and produce ATP and NADPH. Water is split, releasing oxygen.
+
+2. Calvin cycle
+This stage uses carbon dioxide, ATP, and NADPH to produce glucose.
+
+Why it matters:
+- It supports food chains.
+- It provides oxygen for life.
+- It helps regulate atmospheric carbon dioxide.
+
+Short questions:
+1. What is the role of chlorophyll?
+2. Where does the Calvin cycle happen?
+3. Why is photosynthesis important for life?
