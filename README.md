@@ -267,11 +267,8 @@ EDUBOT generates responses using Large Language Models (LLMs). While it is desig
 
 # 👨‍💻 Author
 
-**Your Name**
-
-Bachelor of Engineering (Computer Science)
-
-Final Year Project
+O.Poojasri
+BTech ,CSE(AIML)
 
 GitHub: https://github.com/poojaoruganti36 
 
