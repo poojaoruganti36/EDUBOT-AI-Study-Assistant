@@ -199,51 +199,93 @@ Implemented modules include:
 - Flashcard generation
 - Mind map generation
 
-## 🖼️ Optional OCR Setup
+# 🔍 Retrieval-Augmented Generation (RAG)
 
-Image uploads use Tesseract OCR through `pytesseract`.
+EDUBOT uses Retrieval-Augmented Generation (RAG) to improve response accuracy by retrieving relevant information from uploaded documents before generating answers with the language model.
 
-Install Tesseract OCR from:
+This enables:
 
-```text
-https://github.com/tesseract-ocr/tesseract
-```
+- Context-aware responses
+- Better accuracy
+- Reduced hallucinations
+- Personalized document-based tutoring
 
-For Windows, add this path to system PATH if needed:
+---
+
+# 🖼 OCR Support
+
+Image uploads are processed using **Tesseract OCR** through `pytesseract`.
+
+Install Tesseract OCR if you plan to analyze images containing text.
+
+Windows default installation path:
 
 ```text
 C:\Program Files\Tesseract-OCR\tesseract.exe
 ```
 
-## 🔮 Future Scope
+---
 
-- Multilingual tutoring
-- Mobile app version
-- AI video explanations
-- Audio explanation output
-- Student progress tracking
-- LMS integration
-- Offline study mode
+# 🔮 Future Enhancements
 
-## ✅ GitHub Notes
+- 🌍 Multilingual tutoring
+- 📱 Mobile application
+- 🎙 AI-generated audio explanations
+- 📈 Student learning analytics
+- ☁ Cloud-based document storage
+- 🎓 Learning Management System (LMS) integration
+- 📊 Personalized study recommendations
 
-Do not upload:
+---
+
+# 📌 GitHub Notes
+
+The following files should **not** be uploaded:
 
 - `.env`
-- `.venv/` or any virtual environment folder
+- `.venv/`
 - `__pycache__/`
-- `data/memory.json`
-- local log files
+- Local cache files
+- Temporary logs
+- Generated memory/history files (if any)
 
-Before submission, test with:
+Before pushing the project:
 
 ```bash
-streamlit run edututor_app.py
+streamlit run app.py
 ```
 
-## 📄 License
+Verify that the application launches successfully.
 
-This project is licensed under the MIT License.
+---
 
-# EDUBOT-AI-Study-Assistant
+# ⚠️ Disclaimer
+
+EDUBOT generates responses using Large Language Models (LLMs). While it is designed to assist learning, users should verify important academic information using trusted educational resources.
+
+---
+
+# 👨‍💻 Author
+
+**Your Name**
+
+Bachelor of Engineering (Computer Science)
+
+Final Year Project
+
+GitHub: https://github.com/poojaoruganti36 
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for more information.
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star on GitHub!
+
+
 
