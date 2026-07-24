@@ -1,3 +1,4 @@
+
 # 🤖 EDUBOT - AI Study Assistant
 
 **Intelligent Chatbot for Education and Tutoring**
@@ -243,3 +244,6 @@ streamlit run edututor_app.py
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+# EDUBOT-AI-Study-Assistant
+
